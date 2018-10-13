@@ -1,20 +1,14 @@
+![Alt text](/opencv-tutorial-study-master/taskImage/man2.png)
+
 ![Alt text](/opencv-tutorial-study-master/taskImage/man.png)
 
 <hr/>
 
 # opencv-tutorial-study
-If you have a web page server as node.js
 
-The above source is optimal if you test it by turning it
-The port is 80,
-If you enter your server address in a web page, 
+opencv is a good library for handling graphic images.
 
-you can see that it runs successfully
-
-I have run this source on an ec2 instance of aws as a ubuntu server
-It works well.
-
-If you are on Linux, I recommend installing the forever package
+homepage : <https://opencv-python-tutroals.readthedocs.io/en/latest/>
 
 Cotact
 =============
