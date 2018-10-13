@@ -1,4 +1,4 @@
-![Alt text](/taskImage/man.png)
+![Alt text](/opencv-tutorial-study/taskImage/man.png)
 
 <hr/>
 
