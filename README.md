@@ -2,6 +2,8 @@
 
 opencv is a good library for handling graphic images.
 
+i studyed under tutorial.
+
 official : <https://opencv-python-tutroals.readthedocs.io/en/latest/>
 
 Image
