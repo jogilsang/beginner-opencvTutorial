@@ -1,3 +1,12 @@
+# opencv-tutorial-study
+
+opencv is a good library for handling graphic images.
+
+official : <https://opencv-python-tutroals.readthedocs.io/en/latest/>
+
+Image
+=============
+
 ![Alt text](/opencv-tutorial-study-master/taskImage/res1.jpg)
 
 ![Alt text](/opencv-tutorial-study-master/taskImage/man2.jpg)
@@ -9,13 +18,6 @@
 ![Alt text](/opencv-tutorial-study-master/taskImage/canny2.jpg)
 
 <hr/>
-
-# opencv-tutorial-study
-
-opencv is a good library for handling graphic images.
-
-official : <https://opencv-python-tutroals.readthedocs.io/en/latest/>
-
 
 Contents
 =============
