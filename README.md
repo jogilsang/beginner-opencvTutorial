@@ -1,12 +1,12 @@
-![Alt text](/opencv-tutorial-study-master/taskImage/res1.png)
+![Alt text](/opencv-tutorial-study-master/taskImage/res1.jpg)
 
-![Alt text](/opencv-tutorial-study-master/taskImage/man2.png)
+![Alt text](/opencv-tutorial-study-master/taskImage/man2.jpg)
 
 ![Alt text](/opencv-tutorial-study-master/taskImage/man.png)
 
-![Alt text](/opencv-tutorial-study-master/taskImage/canny.png)
+![Alt text](/opencv-tutorial-study-master/taskImage/canny.jpg)
 
-![Alt text](/opencv-tutorial-study-master/taskImage/canny2.png)
+![Alt text](/opencv-tutorial-study-master/taskImage/canny2.jpg)
 
 <hr/>
 
@@ -21,7 +21,7 @@ Contents
 =============
 
 01. imshow,imwrite,matplotlib
-<https://blog.naver.com/jogilsang/221158945373>
+https://blog.naver.com/jogilsang/221158945373
 
 02. VideoCapture, VideoWriter, cap
 <https://blog.naver.com/jogilsang/221158954148>
